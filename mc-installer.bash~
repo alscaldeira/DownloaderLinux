@@ -50,4 +50,4 @@ then
         echo "> Something went wrong :(" >&5
     fi
 fi
-f
+
