@@ -28,8 +28,6 @@ if zenity --question --title="Minecraft installer" --text "Are you sure you want
 
     echo $PASSWD | sudo -kS snap remove mc-installer &&
 
-    echo "Minecraft was removed from your computer ;)" >&5 ||
-
-    echo "Something went wrong :( try again" >&5
+    echo "Minecraft was removed from your computer ;)" >&5
 fi
 
