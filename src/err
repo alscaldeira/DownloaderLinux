@@ -1,0 +1,396 @@
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:23:27: The style property GtkWidget:link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:24:35: The style property GtkWidget:visited-link-color is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:27:33: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:28:30: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:55:13: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:57:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:61:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:70:17: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:72:17: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:74:15: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:76:16: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:78:20: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:80:20: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:82:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:84:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:138:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:139:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:175:32: The style property GtkWidget:separator-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:176:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:188:32: The style property GtkWidget:separator-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.120: Theme parsing error: gtk-widgets.css:257:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:358:17: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:359:22: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:360:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:370:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:371:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:372:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:373:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:374:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:375:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:381:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:382:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:383:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:384:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:385:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:386:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:393:17: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:395:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:839:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:840:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:876:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:898:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:903:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:934:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:935:33: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:977:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.121: Theme parsing error: gtk-widgets.css:978:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1058:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1171:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1176:46: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1183:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1298:49: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1301:51: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1536:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1563:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1588:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1792:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1794:30: The style property GtkNotebook:tab-overlap is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1861:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1862:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.122: Theme parsing error: gtk-widgets.css:1921:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2025:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2133:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2138:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2183:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2184:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2185:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2214:33: The style property GtkWidget:separator-height is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2215:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2231:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2232:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2244:17: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2245:17: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2248:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2249:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2344:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2355:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2360:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2391:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2410:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2417:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2499:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2502:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2503:45: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2504:51: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2505:50: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2507:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2515:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.123: Theme parsing error: gtk-widgets.css:2526:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2570:17: Not using units is deprecated. Assuming 'px'.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2570:17: Expected a string.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2575:11: Not using units is deprecated. Assuming 'px'.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2575:11: Expected a string.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2620:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2636:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2637:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2638:41: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2639:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2640:52: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2641:43: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2674:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2694:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2742:38: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2744:38: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2746:42: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2748:42: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2752:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2826:40: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2828:40: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2830:50: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2833:44: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2835:44: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2837:54: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2841:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2850:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2877:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2878:19: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2879:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2880:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2881:60: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2893:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2894:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2895:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2896:48: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2914:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2915:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2916:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2917:38: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2918:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2919:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2920:60: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2922:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2926:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2927:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2928:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2929:37: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.124: Theme parsing error: gtk-widgets.css:2935:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:2936:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:2955:23: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:2956:24: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:2969:14: not a number
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:2969:14: Expected a string.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:2988:11: Not using units is deprecated. Assuming 'px'.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:2988:11: Expected a string.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3023:18: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3024:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3028:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3029:35: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3094:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3096:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3222:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3231:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3269:14: not a number
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3269:14: Expected a string.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3358:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3368:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3604:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.125: Theme parsing error: gtk-widgets.css:3715:27: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3719:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3860:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3871:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3872:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3883:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3903:26: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3904:32: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3905:30: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3906:36: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3937:25: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3938:29: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3962:33: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3963:40: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3980:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3981:33: The style property GtkWidget:separator-height is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:3982:32: The style property GtkWidget:wide-separators is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4042:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4065:21: The '-gtk-image-effect' property has been renamed to '-gtk-icon-effect'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4131:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4135:16: Not using units is deprecated. Assuming 'px'.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4135:16: Expected a string.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4153:28: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4154:31: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.126: Theme parsing error: gtk-widgets.css:4155:34: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: gtk-widgets.css:4156:47: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: gtk-widgets.css:4157:51: The :insensitive pseudo-class is deprecated. Use :disabled instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: gtk-widgets.css:4160:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: gtk-widgets.css:4170:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: gtk-widgets.css:4314:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: granite-widgets.css:143:27: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: granite-widgets.css:146:27: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: granite-widgets.css:154:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: granite-widgets.css:160:27: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: granite-widgets.css:166:36: The :prelight pseudo-class is deprecated. Use :hover instead.
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: granite-widgets.css:171:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.127: Theme parsing error: apps.css:183:33: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(yad:8878): Gtk-WARNING **: 02:08:55.128: Theme parsing error: apps.css:239:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.128: Theme parsing error: apps.css:308:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.128: Theme parsing error: apps.css:333:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
+
+(yad:8878): Gtk-WARNING **: 02:08:55.128: Theme parsing error: apps.css:409:15: The 'icon-shadow' property has been renamed to '-gtk-icon-shadow'
